@@ -31,4 +31,4 @@ Se trabajan conceptos básicos como manipulación de datos, estructuras, operado
 
 ---
 # Hecho por
-#Jassir Yances, Daniel Pacheco, Jesus Aguilar, Santiago Escamilla
+## Jassir Yances, Daniel Pacheco, Jesus Aguilar, Santiago Escamilla
